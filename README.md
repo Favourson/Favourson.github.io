@@ -145,7 +145,7 @@
             Project 5: Financial Trading Model
           </a>
         </h3>
-        <p>Covid 19 Data Analysis</p>
+        <p>An analysis of Covid 19 Data</p>
       </div>
     </div>
 
