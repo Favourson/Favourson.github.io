@@ -134,6 +134,22 @@
       </div>
     </div>
 
+	<!-- Project 5 -->
+    <div class="card">
+      <a href="https://github.com/Favourson/PortfolioProjects/tree/main/Covid%20-%2019%20Analysis" target="_blank">
+        <img src="Images/project5.png" alt="Project 5 Screenshot">
+      </a>
+      <div class="content">
+        <h3>
+          <a href="https://github.com/Favourson/PortfolioProjects/tree/main/Covid%20-%2019%20Analysis" target="_blank">
+            Project 5: Financial Trading Model
+          </a>
+        </h3>
+        <p>Covid 19 Data Analysis</p>
+      </div>
+    </div>
+
+
     <!-- Duplicate and edit cards for more projects -->
   </div>
 
