@@ -142,7 +142,7 @@
       <div class="content">
         <h3>
           <a href="https://github.com/Favourson/PortfolioProjects/tree/main/Covid%20-%2019%20Analysis" target="_blank">
-            Project 5: Financial Trading Model
+            Project 5: Covid 19 Analysis
           </a>
         </h3>
         <p>An analysis of Covid 19 Data</p>
