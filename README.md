@@ -79,7 +79,7 @@
     <!-- Project 1 -->
     <div class="card">
       <a href="https://github.com/Favourson/PortfolioProjects/blob/main/Customer%20Churn%20Analysis%20and%20Prediction/Customer%20Churn%20Prediction.ipynb" target="_blank">
-        <img src="C:\Users\emman\Downloads\project1.png" alt="Project 1 Screenshot">
+        <img src="Images/project1.png" alt="Project 1 Screenshot">
       </a>
       <div class="content">
         <h3>
@@ -94,7 +94,7 @@
     <!-- Project 2 -->
     <div class="card">
       <a href="https://github.com/Favourson/PortfolioProjects/tree/main/International%20Student%20Demographics%20Tableau" target="_blank">
-        <img src="C:\Users\emman\Downloads\project2.png" alt="Project 2 Screenshot">
+        <img src="Images/project2.png" alt="Project 2 Screenshot">
       </a>
       <div class="content">
         <h3>
@@ -109,7 +109,7 @@
 	<!-- Project 3 -->
     <div class="card">
       <a href="https://github.com/Favourson/PortfolioProjects/tree/main/Layoffs%20Analysis%20Project%20with%20Tableau" target="_blank">
-        <img src="C:\Users\emman\Downloads\project3.png" alt="Project 3 Screenshot">
+        <img src="Images/project3.png" alt="Project 3 Screenshot">
       </a>
       <div class="content">
         <h3>
@@ -124,7 +124,7 @@
 	<!-- Project 4 -->
     <div class="card">
       <a href="https://github.com/Favourson/PortfolioProjects/tree/main/FinanceTradingStrategies/Moving%20Average%20Crossover" target="_blank">
-        <img src="C:\Users\emman\Downloads\project4.png" alt="Project 4 Screenshot">
+        <img src="Images/project4.png" alt="Project 4 Screenshot">
       </a>
       <div class="content">
         <h3>
