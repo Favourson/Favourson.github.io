@@ -151,16 +151,16 @@
 
 	<!-- Project 6 -->
     <div class="card">
-      <a href="https://app.uizard.io/p/830c46b/preview" target="_blank">
+      <a href="https://app.uizard.io/p/8c30c46b/preview" target="_blank">
         <img src="Images/Herbal Me.png" alt="Project 6 Screenshot">
       </a>
       <div class="content">
         <h3>
           <a href="https://app.uizard.io/p/8c30c46b/preview" target="_blank">
-            Project 6: Frontend mobile framework design of personalised herbal health app
+            Project 6: Personalised Naturopathy Concept Design
           </a>
         </h3>
-        <p>Personalised Naturopathy App Concept</p>
+        <p>Frontend mobile framework design of personalised herbal health app</p>
       </div>
     </div>
 
