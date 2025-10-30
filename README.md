@@ -69,7 +69,7 @@
 <body>
 
   <header>
-    <h1>My Visualization Portfolio</h1>
+    <h1>My Portfolio</h1>
     <p>A collection of my projects and data visualizations</p>
   </header>
 
@@ -91,16 +91,16 @@
 
     <!-- Project 2 -->
     <div class="card">
-      <a href="https://github.com/Favourson/PortfolioProjects/tree/main/International%20Student%20Demographics%20Tableau" target="_blank">
-        <img src="Images/project2.png" alt="Project 2 Screenshot">
+      <a href="https://app.uizard.io/p/3c2df996/preview" target="_blank">
+        <img src="Images/Jobberscholar.png" alt="Project 2 Screenshot">
       </a>
       <div class="content">
         <h3>
-          <a href="https://github.com/Favourson/PortfolioProjects/tree/main/International%20Student%20Demographics%20Tableau" target="_blank">
-            Project 2: International Student Analysis
+          <a href="https://app.uizard.io/p/3c2df996/preview" target="_blank">
+            Project 2: Job Platform
           </a>
         </h3>
-        <p>Analysis of domestic and international student behaviour.</p>
+        <p>UI project- Job Search Platform for Students and Graduates.</p>
       </div>
     </div>
 	
@@ -149,6 +149,20 @@
       </div>
     </div>
 
+	<!-- Project 6 -->
+    <div class="card">
+      <a href="https://app.uizard.io/p/830c46b/preview" target="_blank">
+        <img src="Images/Herbal Me.png" alt="Project 6 Screenshot">
+      </a>
+      <div class="content">
+        <h3>
+          <a href="https://app.uizard.io/p/8c30c46b/preview" target="_blank">
+            Project 6: Frontend mobile framework design of personalised herbal health app
+          </a>
+        </h3>
+        <p>Personalised Naturopathy App Concept</p>
+      </div>
+    </div>
 
     <!-- Duplicate and edit cards for more projects -->
   </div>
