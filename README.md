@@ -157,7 +157,7 @@
       <div class="content">
         <h3>
           <a href="https://app.uizard.io/p/8c30c46b/preview" target="_blank">
-            Project 6: Personalised Naturopathy Concept Design
+            Project 6: Naturopathy App Design
           </a>
         </h3>
         <p>Frontend mobile framework design of personalised herbal health app</p>
