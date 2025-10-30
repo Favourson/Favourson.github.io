@@ -152,7 +152,7 @@
 	<!-- Project 6 -->
     <div class="card">
       <a href="https://app.uizard.io/p/8c30c46b/preview" target="_blank">
-        <img src="Images/Herbal Me.png" alt="Project 6 Screenshot">
+        <img src="Images/Herbal.png" alt="Project 6 Screenshot">
       </a>
       <div class="content">
         <h3>
