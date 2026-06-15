@@ -498,7 +498,7 @@
     </div>
     <div class="contact-links">
       <a href="mailto:emmansonfavour46@gmail.com" class="btn btn-primary">Email me</a>
-      <a href="https://www.linkedin.com/in/favour-emmanson" target="_blank" class="btn btn-ghost">LinkedIn ↗</a>
+      <a href="https://www.linkedin.com/in/favour-osborn-emmanson-a54bb9202" target="_blank" class="btn btn-ghost">LinkedIn ↗</a>
     </div>
   </div>
 </section>
